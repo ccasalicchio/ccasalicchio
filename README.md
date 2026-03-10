@@ -6,6 +6,7 @@
 ```
 🖥 Expert-Vetted Talent 
 📈 Top 1% — pre-screened Talent Managers and experts in their field.
+
 ⭐ Senior .NET C# Software Engineer ⭐ Back-end development ⭐ Front-end development ⭐ Full-stack development ⭐ Umbraco Certified Master ⭐ nopCommerce Certified Developer ⭐ AI-Enhanced Development
 
 Senior Software Architect with 20 years delivering enterprise .NET solutions globally. Dual-certified (Umbraco Master, nopCommerce), specializing in secure, scalable systems for healthcare and e-commerce. Expert in C#, .NET Core, RESTful APIs, cloud (Azure/AWS), AI tools, Ollama, and Python. Full-stack proficiency: TypeScript, Angular, VueJS, Blazor, Linux/Windows. Proven results: 36% performance gains, $75K+ liability prevention. Bilingual, HIPAA-compliant. Seeking international opportunities.
