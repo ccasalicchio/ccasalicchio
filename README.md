@@ -20,6 +20,7 @@ Senior Software Architect with 20 years delivering enterprise .NET solutions glo
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ### Best practices and methodologies
+
  - 📢Scrum
  - 📢SOLID principles
  - 📢DRY – don't repeat yourself
@@ -28,6 +29,7 @@ Senior Software Architect with 20 years delivering enterprise .NET solutions glo
  - 📢Version Control Standards (branches, pull requests, etc.)
 
 ### Certifications
+
  - 🥇 Scrum Developer Certified
  - 🥇 Scrum Master Certified
  - 🥇 Scrum Product Owner Certified
